@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539009333849",
+    "project_id": "examreact-ec66e",
+    "storage_bucket": "examreact-ec66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539009333849:android:b1b634d73cfa96879a0f48",
+        "android_client_info": {
+          "package_name": "com.examreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539009333849-q5uinnfj1a56230132ndvqj3plt2pifc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examreact",
+            "certificate_hash": "492653ede4c91d62b025c0937001baa7b0801763"
+          }
+        },
+        {
+          "client_id": "539009333849-3e4uvp3espa96vdns50nfr6ftp01gdg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQe7zDOx_kZUZ7KJgWqlyoUaLdHSHv5fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539009333849-3e4uvp3espa96vdns50nfr6ftp01gdg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
